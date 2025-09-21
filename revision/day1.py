@@ -50,3 +50,17 @@ b=a
 temp=a
 print("after swapping first number is ",a)
 print("after swapping second number is ",b)
+
+
+
+
+
+
+
+# a=int(input("enter first number ") )
+# b=int(input("enter second number ") )
+# c=int(input("enter third number ") )
+# print("sum is ",a+b+c)
+# print("subtraction is ",a-b-c)
+# print("multiplication is ",a*b*c)
+# print ("division is ",a/b/c)
