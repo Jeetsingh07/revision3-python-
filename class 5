@@ -1,0 +1,6 @@
+a=int(input("maths marks"))
+b=int(input("science marks"))
+c=int(input("english marks"))
+d=int(input("hindi marks"))
+e=int(a+b+c+d)
+print(e/400*100)
