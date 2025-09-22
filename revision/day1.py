@@ -43,13 +43,13 @@
 
 
 
-a=int(input("enter first number "))
-b=int(input("enter second number "))
-a=b
-b=a
-temp=a
-print("after swapping first number is ",a)
-print("after swapping second number is ",b)
+# a=int(input("enter first number "))
+# b=int(input("enter second number "))
+# a=b
+# b=a
+# temp=a
+# print("after swapping first number is ",a)
+# print("after swapping second number is ",b)
 
 
 
@@ -64,3 +64,22 @@ print("after swapping second number is ",b)
 # print("subtraction is ",a-b-c)
 # print("multiplication is ",a*b*c)
 # print ("division is ",a/b/c)
+
+
+
+# print(3 * (1 + 2)**2 - (2**2) * 3)
+
+# password="jeet"
+# input_password=input("enter your password ")
+# while input_password!=password:
+#     print("wrong password")
+#     input_password=password=input("enter your password ")
+# print("correct password")
+
+password = "jeet"
+input_password = input("Enter your password: ")
+
+while input_password != password:
+    print("Wrong password")
+    input_password = password = input("enter your password ")
+print("Correct password")
