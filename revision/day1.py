@@ -83,3 +83,11 @@ while input_password != password:
     print("Wrong password")
     input_password = password = input("enter your password ")
 print("Correct password")
+
+
+
+
+for i in range(5):
+    if i == 3:
+        break
+    print(i)
